@@ -16,7 +16,7 @@ The explanation of the code can be found in the [Code Review](./Code%20Review.md
 
 ## Demo
 
-![](https://github.com/user-attachments/assets/144b97f4-ed59-48b2-b47f-6b5ef71a6148)
+https://github.com/user-attachments/assets/144b97f4-ed59-48b2-b47f-6b5ef71a6148
 
 ## Build
 
